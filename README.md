@@ -1,4 +1,4 @@
-# < p align="justify"> :arrows_counterclockwise: janeAusten-quotegenerator :arrows_counterclockwise: </p>
+# <center> :arrows_counterclockwise: janeAusten-quotegenerator :arrows_counterclockwise: </center>
 
 <img src="https://github.com/freitasrayani/janeAusten-quotegenerator/blob/master/assets/readme-img.jpeg" width="400">
 
