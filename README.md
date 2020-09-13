@@ -1,7 +1,7 @@
   # :arrows_counterclockwise: Jane Austen quote generator :arrows_counterclockwise: 
 
 ## Project Description :bulb: 
- <p>A quote generator that randomly generate quotes said/writing by the english novelist **Jane Austen**. The colors are randomly generated too.</p>
+ <p>A quote generator that randomly generate quotes said/writing by the english novelist ** Jane Austen **. The colors are randomly generated too.</p>
 
 ## Status:
  Complete :heavy_check_mark:
@@ -11,12 +11,12 @@
 <img src="https://github.com/freitasrayani/janeAusten-quotegenerator/blob/master/assets/mobile-img.jpeg" width="450"> <img src="https://github.com/freitasrayani/janeAusten-quotegenerator/blob/master/assets/readme-img.jpeg" width="450">
 
 ## Made With:
-*HTML
-*CSS
-*JavaScript
+* HTML
+* CSS
+* JavaScript
  
  
- :PT/BR: 
+ : PT/BR : 
  # :arrows_counterclockwise: Jane Austen gerador de mensagens :arrows_counterclockwise: 
 
 ## Descrição do projeto :bulb:
@@ -30,9 +30,9 @@
 <img src="https://github.com/freitasrayani/janeAusten-quotegenerator/blob/master/assets/mobile-img.jpeg" width="450"> <img src="https://github.com/freitasrayani/janeAusten-quotegenerator/blob/master/assets/readme-img.jpeg" width="450">
 
 ## Feito com:
-*HTML
-*CSS
-*JavaScript
+* HTML
+* CSS
+* JavaScript
 
 
 [Você pode gerar seus resultados clicando aqui]( https://freitasrayani.github.io/janeAusten-quotegenerator/.)
